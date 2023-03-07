@@ -1,11 +1,10 @@
 ---
 title: "Lab 01 - Hello R!"
-output: 
-  tufte::tufte_html:
-    css: ../lab.css
-    tufte_variant: "envisioned"
-    highlight: pygments
+author: Kevin Walter Conejo Molina
+date: 3/7/2023
+
 link-citations: yes
+
 ---
 
 ```{marginfigure}
